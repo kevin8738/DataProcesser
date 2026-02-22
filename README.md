@@ -1,4 +1,4 @@
-﻿# Local CSV Analyzer (Streamlit)
+﻿# DataProcesser (Streamlit)
 
 로컬에서 단독 실행하는 CSV 분석 앱입니다. 목적은 **재현 가능한 자동 EDA + 지도/비지도 모델링 + LLM 해석 리포트**입니다.
 
